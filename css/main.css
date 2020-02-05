@@ -1,0 +1,32 @@
+body {
+  background-color: lightslategray;
+  color: orchid;
+  font-family: arial;
+  font-size: 20px;
+  margin: 100px 50px 50px 100px;
+}
+
+h1{
+  text-align: center;
+  text-transform: uppercase
+}
+a {
+  letter-spacing: 50px;
+  color: mediumspringgreen;
+  text-decoration: none;
+}
+a:hover {
+  color: pink;
+}
+#images {
+  background-color: white;
+  margin: 0;
+  text-align: center;
+  color: black;
+  font-family: arial;
+  text-transform: uppercase;
+}
+#images img {
+  max-width: 100%;
+  margin: 25px 0px;
+}
