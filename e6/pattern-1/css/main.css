@@ -1,0 +1,35 @@
+body {
+  margin: 0
+  overflow-x: hidden;
+}
+.container {
+  width: 300vw;
+  margin: -50px -10%;
+}
+.block-1, .block-2, .block-3 {
+  width: 100px;
+  height: 100px;
+  float: left;
+}
+.block-1 {
+  background-color: midnightblue;
+  width: 100px;
+  height: 100px;
+  float: left;
+  border-color: midnightblue;
+  margin: 10;
+}
+.block-2 {
+  background-color: lightsteelblue;
+  border-color: lightsteelblue;
+  margin: 10;
+}
+.block-3 {
+  background-color: mistyrose;
+  border: 10px solid black;
+  float: left;
+  width: 100px;
+  height: 100px;
+  border-color: mistyrose;
+  margin: 10;
+}

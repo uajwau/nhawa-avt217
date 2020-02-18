@@ -1,9 +1,10 @@
 body {
   background-color: lightslategray;
-  color: orchid;
+  color: goldenrod;
   font-family: arial;
   font-size: 20px;
-  margin: 100px 50px 50px 100px;
+  margin: 300px 500px 500px 300px;
+  text-align: center;
 }
 
 h1{
@@ -11,12 +12,13 @@ h1{
   text-transform: uppercase
 }
 a {
-  letter-spacing: 50px;
-  color: mediumspringgreen;
+  letter-spacing: 100px;
+  color: goldenrod;
   text-decoration: none;
+  font-size: 100px;
 }
 a:hover {
-  color: pink;
+  color: gold;
 }
 #images {
   background-color: white;

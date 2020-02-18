@@ -1,8 +1,9 @@
 body {
-  background-color: lightslategray;
-  color: orchid;
+  background-color: blanchedalmond;
+  color: coral;
   font-family: arial;
   font-size: 20px;
+  text-align: center;
   margin: 100px 50px 50px 100px;
 }
 
@@ -11,12 +12,13 @@ h1{
   text-transform: uppercase
 }
 a {
-  letter-spacing: 50px;
-  color: mediumspringgreen;
+  letter-spacing: 20px;
+  color: deeppink;
   text-decoration: none;
+  font-size: 100px;
 }
 a:hover {
-  color: pink;
+  color: mediumspringgreen;
 }
 #images {
   background-color: white;

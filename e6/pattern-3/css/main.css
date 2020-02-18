@@ -1,0 +1,61 @@
+body {
+  margin: 0
+  overflow-x: hidden;
+}
+.container {
+  width: 300vw;
+  margin: -50px -10%;
+}
+.block-1, .block-2, .block-3, .block-4, .block-5, .block-6, .block-7, .block-8 {
+  width: 100px;
+  height: 100px;
+  float: left;
+}
+.block-1 {
+  background-color: midnightblue;
+  border-color: midnightblue;
+  float: left;
+  margin: 10;
+}
+.block-2 {
+  background-color: navy;
+  border-color: navy;
+  float: left;
+  margin: 10;
+}
+.block-3 {
+  background-color: mediumblue;
+  border-color: mediumblue;
+  float: left;
+  margin: 10;
+}
+.block-4 {
+  background-color: steelblue;
+  border-color: steelblue;
+  float: left;
+  margin: 10;
+}
+.block-5 {
+  background-color: royalblue;
+  border-color: royalblue;
+  float: left;
+  margin: 10;
+}
+.block-6 {
+  background-color: skyblue;
+  border-color: skyblue;
+  float: left;
+  margin: 10;
+}
+.block-7 {
+  background-color: lightblue;
+  border-color: lightblue;
+  float: left;
+  margin: 10;
+}
+.block-8 {
+  background-color: cornflowerblue;
+  border-color: cornflowerblue;
+  float: left;
+  margin: 10;
+}
