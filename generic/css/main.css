@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+h1 {
+  font-family: 'Amiri', serif;
+  font-weight: 200;
+}
+#container {
+  background-color: grey;
+  width: 75%;
+  margin: 100px auto;
+  padding: 100px;
+}

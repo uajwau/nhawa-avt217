@@ -1,35 +1,21 @@
 body {
-  background-color: lightslategray;
-  color: goldenrod;
-  font-family: arial;
+  background-color: blanchedalmond;
+  color: coral;
+  font-family: 'Oswald', sans-serif;
   font-size: 20px;
-  margin: 400px 200px 200px 400px;
+  margin: 100px 50px 50px 100px;
+}
+p {
+  font-size: 100px;
   text-align: center;
-}
-
-h1{
-  text-align: center;
-  text-transform: uppercase
-}
-a {
-  letter-spacing: 50px;
-  color: goldenrod;
-  text-decoration: none;
-  font-size: 75px;
-}
-a:hover {
-  color: gold;
-  font-size: 75px;
-}
-#images {n
-  background-color: white;
-  margin: 0;
-  text-align: center;
-  color: black;
-  font-family: arial;
+  letter-spacing: 0px;
   text-transform: uppercase;
 }
-#images img {
-  max-width: 100%;
-  margin: 25px 0px;
+a {
+  color: deeppink;
+  text-decoration: none;
+}
+a:hover {
+  color: mediumspringgreen;
+  transition: color 2s ease;
 }
