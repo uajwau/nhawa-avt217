@@ -1,8 +1,8 @@
 body {
-  background-color: blanchedalmond;
-  color: coral;
-  font-family: 'Oswald', sans-serif;
-  font-size: 20px;
+  background-color: darkslategray;
+  color: lightsteelblue;
+  font-family: 'Bree Serif', ;
+  font-size: 30px;
   margin: 100px 50px 50px 100px;
 }
 p {
@@ -12,8 +12,8 @@ p {
   text-transform: uppercase;
 }
 a {
-  color: deeppink;
-  text-decoration: none;
+  color: goldenrod;
+  text-decoration: overline;
 }
 a:hover {
   color: mediumspringgreen;
