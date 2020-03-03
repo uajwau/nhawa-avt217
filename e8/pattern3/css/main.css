@@ -1,33 +1,31 @@
 body {
   margin: 0;
-  background-color: black;
+  background-color: mediumvioletred;
+}
+.header, .box1, .box2, .subhead {
+  float: left;
+  background-color: lightsteelblue;
 }
 .container {
   width: 900px;
   margin: 100px auto;
 }
-.header, .subhead, .column, .footer {
-  background-color: thistle;
-  float: left;
-}
 .header {
   width: 900px;
-  height: 100px;
+  height: 200px;
+  margin: 0 0 100px 0;
+}
+.box1 {
+  width: 700px;
+  height: 500px;
+}
+.box2 {
+  width: 170px;
+  height: 230px;
+  margin: 0 0 0 25px;
 }
 .subhead {
-  width: 900px;
+  width: 700px;
   height: 50px;
-  margin: 25px 0;
-}
-.column {
-  width: 283.33px;
-  height: 600px;
-}
-.footer {
-  width: 900px;
-  height: 75px;
-  margin: 25px 0 0 0;
-}
-.margin25 {
-  margin: 0 25px;
+  margin: 25px 0 100px 0;
 }

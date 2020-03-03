@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  background-color: slategray;
+}
+.horizontal, .vertical, .box {
+  float: left;
+  background-color: thistle;
+}
+.container {
+  width: 100px;
+  margin: 100px auto;
+}
+.vertical {
+  width: 100px;
+  height: 550px;
+}
+.container2 {
+  width: 700px;
+  margin: 100px auto;
+}
+.horizontal {
+  width: 680px;
+  height: 205px;
+}
+.box {
+  width: 335px;
+  height: 335px;
+}
+.tmargin10 {
+  margin-top: 10px;
+}
+.bmargin10 {
+  margin-bottom: 10px;
+}
+.lmargin10 {
+  margin-left: 10px;
+}
+.rmargin10 {
+  margin-right: 10px;
+}
+ul {
+  list-style-type: none;
+}
