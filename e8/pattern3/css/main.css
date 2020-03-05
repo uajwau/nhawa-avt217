@@ -13,19 +13,18 @@ body {
 .header {
   width: 900px;
   height: 200px;
-  margin: 0 0 100px 0;
 }
 .box1 {
   width: 700px;
   height: 500px;
+  margin: 100px 25px 25px 0;
 }
 .box2 {
-  width: 170px;
-  height: 230px;
-  margin: 0 0 0 25px;
+  width: 175px;
+  height: 200px;
+  margin: 100px 0 0;
 }
 .subhead {
   width: 700px;
   height: 50px;
-  margin: 25px 0 100px 0;
 }
