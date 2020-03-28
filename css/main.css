@@ -1,6 +1,6 @@
 body {
-  background-color: lightslategray;
-  color: orchid;
+  background-color: darkslategray;
+  color: steelblue;
   font-family: arial;
   font-size: 20px;
   margin: 100px 50px 50px 100px;
@@ -12,11 +12,11 @@ h1{
 }
 a {
   letter-spacing: 25px;
-  color: mediumspringgreen;
+  color: lightsteelblue;
   text-decoration: none;
 }
 a:hover {
-  color: pink;
+  color: hotpink;
 }
 #images {
   background-color: white;
