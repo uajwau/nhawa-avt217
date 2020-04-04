@@ -1,0 +1,16 @@
+body {
+  background-color: lightsteelblue;
+  font: garamond;
+  font-size: 25px;
+}
+h1 {
+  font: arial;
+  font-size: 40px;
+}
+#images {
+  text-align: center;
+  margin: 0;
+}
+#images img {
+  max-width: 100%;
+}

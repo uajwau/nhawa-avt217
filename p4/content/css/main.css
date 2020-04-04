@@ -1,0 +1,22 @@
+body {
+  background-color: mistyrose;
+  font-family: garamond;
+  font-size: 20px;
+  text-align: center;
+  margin: 25px auto;
+  text-transform: uppercase;
+}
+
+h1 {
+  font-family: arial;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 30px;
+}
+
+h2 {
+  text-align: center;
+  text-transform: lowercase;
+  font-size: 17px;
+  margin: 25px auto;
+}
