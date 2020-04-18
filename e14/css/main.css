@@ -1,0 +1,108 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: lightsteelblue;
+  margin: 50px auto;
+}
+h1 {
+  color: black;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 35px;
+  font-family: arial;
+}
+h2 {
+  color: black;
+  text-align: center;
+  font-size: 25px;
+  font-family: arial;
+}
+.fixed {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+.absolute {
+  position: absolute;
+  top: 0;
+  left: 0;
+
+}
+.relative {
+  position: relative;
+  top:
+  left:
+}
+
+.poster {
+  background: hotpink;
+  width: 700px;
+  height: 500px;
+  position: relative;
+  margin: 100px auto;
+}
+
+.hair {
+  background-color: black;
+  width: 400px;
+  height: 200px;
+  border-radius: 200px 200px 0 0;
+  position: relative;
+  margin: 100px auto;
+}
+
+.face {
+  background-color: blanchedalmond;
+  width: 400px;
+  height: 400px;
+  border-radius: 50%;
+  margin: 100px 50px;
+  position: relative;
+  margin: 50px auto;
+}
+
+.l-eye, .r-eye {
+  background-color: white;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  position: absolute;
+  top: 200px;
+}
+
+.l-eye {
+  left: 75px;
+}
+
+.r-eye {
+  left: 225px;
+}
+
+.pupil {
+  background-color: black;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  position: absolute;
+  top: 25px;
+  left: 50px;
+}
+
+.nose {
+  background-color: pink;
+  width: 40px;
+  height: 15px;
+  position: absolute;
+  top: 315px;
+  left: 175px;
+}
+
+.mouth {
+  background-color: darksalmon;
+  width: 90px;
+  height: 20px;
+  position: absolute;
+  top: 350px;
+  left: 150px;
+}
